@@ -2,10 +2,6 @@
 
 ## Bem vindo! 👋
 
-Obrigado por conferir este desafio e usar nossa plataforma DevMentor.
-
-[DevMentor Brasil](https://www.devmentor.com.br) E se desafie, desafios ajudam você a melhorar suas habilidades como dev.
-
 **Para fazer este desafio, você precisa de um conhecimento básico de HTML, CSS e JavaScript.**
 
 ## Desafio
