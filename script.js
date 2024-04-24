@@ -1,6 +1,6 @@
 const containerContador = document.getElementById("container-contador")
 
-const countDown = new Date("Jan 12, 2024 15:37:25").getTime()
+const countDown = new Date("Jan 12, 2025 15:37:25").getTime()
 
 var interval = setInterval(function () {
   const now = new Date().getTime()
